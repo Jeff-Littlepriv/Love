@@ -23,6 +23,7 @@ section.text{
     font-size: 1.5em;
     text-align: left;
     background-color: white;
+    min-width: 30px;
 
 }
 section.text > p {
