@@ -16,6 +16,9 @@ header{
     margin-top: 50px;
 
 }
+section{
+    display: block;
+}
 
 
 section.text{
