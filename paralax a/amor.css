@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family: "Pacifico", cursive;
+}
+header{
+    text-align: center;
+    color: white;
+    min-height: 100px;
+    background-color: black;
+    margin-top: 50px;
+
+}
+
+
+section.text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    text-align: left;
+    background-color: white;
+
+}
+section.text > p {
+    max-width: 500px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+
+}
+
+section.img{
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    line-height: 2em;
+    padding-left: 30px;
+    box-shadow: inset 2px 4px 20px black;
+}
+
+section{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    line-height: 2em;
+    padding-left: 30px;
+    font-size: 1.5em;
+
+}
+section.img > p{
+    background-color: #00000096;
+    color: white;
+    width: 400px;
+    font-size: 1.5em;
+    display: block;
+    padding: 15px;  
+}
+
+section#img1{
+    background-image: url("Ryry/ry1.jpg");
+    background-size: 50%;
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+section#img2{
+    background-image: url("Ryry/ry2.png");
+    background-position: right center;
+    background-size: 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+    
+}
+section#img3{
+    background-image: url("Ryry/ry3.jpg");
+    background-position: right center;
+    background-size: 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+    
+}
+section#img4{
+    background-image: url("Ryry/ry44.jpg");
+    background-position: right center;
+    background-size: 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+    
+}
+section#img5{
+    background-image: url("Ryry/ry5.jpg");
+    background-position: right center;
+    background-size: 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+    
+}
+
+section#img6{
+    background-image: url("Ryry/buq.png");
+    background-position: right center;
+    background-size: 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+    
+}
+section#img7{
+    background-image: url("Ryry/ry7.jpg");
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+    
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
