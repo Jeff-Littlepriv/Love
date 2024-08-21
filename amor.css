@@ -26,7 +26,7 @@ section.text{
 
 }
 section.text > p {
-    max-width: 500px;
+    display: inline-block;
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 10vh;
